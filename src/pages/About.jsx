@@ -8,7 +8,7 @@ function About() {
           <div>
             <p className="mb-6 text-lg text-gray-300 leading-relaxed">
               Hey! I'm{" "}
-              <span className="text-white font-medium">Elionor Oliveros</span>
+              <span className="text-white font-medium">Venice Godoy</span>
               , a passionate software developer with a love for crafting modern
               and user-focused web applications.
               <br />

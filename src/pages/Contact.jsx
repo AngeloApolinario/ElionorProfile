@@ -16,17 +16,17 @@ function Contact() {
             <div className="flex items-center space-x-4">
               <Mail className="text-blue-500" />
               <span className="text-gray-300">
-                elaizaoliveros12345@mail.com
+                vefe.godoy.au@mail.com
               </span>
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="text-blue-500" />
-              <span className="text-gray-300">09497638380</span>
+              <span className="text-gray-300">09647649527</span>
             </div>
             <div className="flex items-center space-x-4">
               <MapPin className="text-blue-500" />
               <span className="text-gray-300">
-                San Francisco, Llanera, Nueva Ecija
+                San Josef Sur, Cabanatuan City, Nueva Ecija
               </span>
             </div>
           </div>
