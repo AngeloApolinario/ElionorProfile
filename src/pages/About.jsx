@@ -5,7 +5,6 @@ function About() {
         <h2 className="text-4xl font-bold mb-8 text-blue-500">About Me</h2>
 
         <div className="grid md:grid-cols-2 gap-10">
-          {/* Description */}
           <div>
             <p className="mb-6 text-lg text-gray-300 leading-relaxed">
               Hey! I'm{" "}

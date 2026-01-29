@@ -9,6 +9,7 @@ function Contact() {
           Feel free to reach out — whether you have a question, a project, or
           just want to connect.
         </p>
+        
 
         <div className="grid md:grid-cols-2 gap-8 text-left">
           <div className="space-y-6">

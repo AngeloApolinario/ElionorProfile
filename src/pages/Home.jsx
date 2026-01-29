@@ -7,7 +7,7 @@ function Home() {
             Welcome
           </p>
           <h1 className="text-4xl lg:text-5xl font-bold leading-tight mb-6">
-            Hey, I'm <span className="text-blue-500">Elionor</span>
+            Hey, I'm <span className="text-blue-500">Venice Godoy</span>
             <br />I build web experiences.
           </h1>
           <p className="text-gray-400 text-lg mb-8">
@@ -33,7 +33,7 @@ function Home() {
 
         <div className="hidden md:flex items-center justify-center">
           <img
-            src="/ella.jfif"
+            src="/VeniceProfile.jfif"
             alt="Developer illustration"
             className="w-full max-w-sm"
           />
